@@ -1,4 +1,4 @@
-# VLSI Projcts
+# VLSI Projects
 
 This repository contains Digital Logic Design, RTL architectures, and verification environments developed using Verilog HDL and Xilinx Vivado. The projects showcased here represent handson engineering flows implemented during specialized chip training, focusing on arithmetic circuit optimization, protocol modeling, and memory reliability analysis.
 Toolstack & TechnologiesHardware Description Language: Verilog 
